@@ -3,34 +3,36 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Home
+title: Weijie (Jack) Zhang
 email: wzhang3912@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A personal website by Jack. 
+url: "https://wzhang3912.github.io/"
 github_username: Wzhang3912
+repository: "Wzhang3912/Wzhang3912.github.io"
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+# paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _project
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
@@ -47,19 +49,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Weijie Zhang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi ..."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Wzhang3912"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/wzhang3912/"
+  name   : "Weijie (Jack) Zhang"
+  avatar : "/assets/images/photo.jpg"
+  bio    : "Data Science Student @ UC San Diego"
+  location: "Los Angeles, CA"
+  github: Wzhang3912
+  linkedin: wzhang3912
+  email: wzhang3912@gmail.com
 
 footer:
   links:
@@ -67,21 +63,28 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Wzhang3912"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linked-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/wzhang3912/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:wzhang3912@gmail.com
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: False
+  #     comments: False
+  #     share: False
+  #     related: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -90,9 +93,12 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+notes:
   type: liquid
-  path: /categories/
-tag_archive:
+  path: /notes/
+project:
   type: liquid
-  path: /tags/
+  path: /project/
+research:
+  type: liquid
+  path: /research/

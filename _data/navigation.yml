@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Projects & Research"
+    url: /project/
+  - title: "CV/Resume"
+    url: /assets/files/resume.pdf
+  - title: "Study Note"
+    url: /study_note/
+  # - title: "Random Things"
+  #   url: /things/
