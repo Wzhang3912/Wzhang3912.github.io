@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-
+#### Data Science (DSC)
 - DSC 10 - Principles of Data Science [[Notes](https://www.dropbox.com/scl/fi/3ikn5an8mtpoxzoi9sire/DSC-10.paper?rlkey=blum6rha13mhux9q5m6wythd0&st=yxvc9l5a&dl=0)]
 - DSC 20 - Programming and Basic Data Structures for Data Science [[Notes](https://www.dropbox.com/scl/fi/5bj4fn34f8zgpx1qnfbms/DSC-20.paper?rlkey=fmed4p3cr9qxwx566g0skvu3f&st=k6l1b6cs&dl=0)]
 - DSC 30 - Data Structures and Algorithms for Data Science [[Notes](https://www.dropbox.com/scl/fi/2pnrljbk8do5tyf42ghca/DSC-30.paper?rlkey=g8w53yjvzhlcndl3okts1sdu0&st=ceahnqwf&dl=0)]
@@ -16,13 +16,15 @@ author_profile: true
 - DSC 100 - Introduction to Data Management [[Notes](https://www.dropbox.com/scl/fi/o33ouls620f7turbnr4m3/DSC-100.paper?rlkey=e1njt2bqjhj78581f94x7683d&st=7kxw393o&dl=0)]
 - DSC 106 - Introduction to Data Visualization [[Notes](https://www.dropbox.com/scl/fi/hg7mo8ns55qnhx5zoifd8/DSC-106-Data-Visualization.paper?rlkey=l3w7ld0355moial66exspc90v&st=mipeknns&dl=0)]
 - DSC 140A - Probabilistic Modeling and Machine Learning [[Notes](/assets/study_note/DSC 140A Note.pdf)]
-- DSC 140B - Representation Learning [Coming soon...]
+- DSC 140B - Representation Learning [[Notes](/assets/study_note/DSC 140B Note.pdf)]
 - DSC 190 - Internet of Things(IoT) and Sensors [[Notes](https://www.dropbox.com/scl/fi/0whwehbzx1zx07f8ibs4l/DSC-190-IOT.paper?rlkey=0ehk5r6xvvbvsbpsrep454ibe&st=dud1um9m&dl=0)]
 - DSC 190 - ML with Few Labels [[Notes](/assets/study_note/DSC 190 Note.pdf)]
 
-- CSE 151B - Deep Learning [Coming soon...]
+#### Computer Science and Engineering (CSE)
+- CSE 151B - Deep Learning [[Notes](/assets/study_note/CSE 151B Note.pdf)]
 - CSE 158 - Recommender Systems and Web Mining [[Notes](https://www.dropbox.com/scl/fi/b5ob1uh0yyi06so9pl74a/CSE-158.paper?rlkey=sdf0bohpyo0ngq159ud1srqia&st=n7adqx5a&dl=0)]
 
+#### Cognitive Science (COGS)
 - COGS 9 - Introduction to Data Science [[Notes](https://www.dropbox.com/scl/fi/7d781hlh0kithbal5xmfy/COGS-9.paper?rlkey=un1clbuf430xxx6akgplyfhyz&st=lipg2tkc&dl=0)]
 - COGS 14A - Introduction to Research Methods [[Notes](https://www.dropbox.com/scl/fi/q6dnlwqbwzxf1nthv2046/COGS-14A.paper?rlkey=yzdaajyq1zh0intdg7nxz66hz&st=ru3efj6h&dl=0)]
 - COGS 14B - Introduction to Statistical Analysis [[Notes](https://www.dropbox.com/scl/fi/9gdmxl4thkse2s7mttnwu/COGS-14B.paper?rlkey=czzcxtornw69vfewcgighqx6a&st=20qtr5x4&dl=0)]
