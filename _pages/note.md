@@ -19,6 +19,7 @@ author_profile: true
 - DSC 140B - Representation Learning [[Notes](/assets/study_note/DSC 140B Note.pdf)]
 - DSC 190 - Internet of Things(IoT) and Sensors [[Notes](https://www.dropbox.com/scl/fi/0whwehbzx1zx07f8ibs4l/DSC-190-IOT.paper?rlkey=0ehk5r6xvvbvsbpsrep454ibe&st=dud1um9m&dl=0)]
 - DSC 190 - ML with Few Labels [[Notes](/assets/study_note/DSC 190 Note.pdf)]
+- DSC 102 - Systems for Scalable Analytics [[Notes](https://www.dropbox.com/scl/fi/d2hk0j7osss3bwnbivoi1/DSC-102-Systems-for-Scalable-Analytics.paper?rlkey=7i06vbfwobja52v24hn6fadxy&st=lg6is4oo&dl=0)]
 
 #### Computer Science and Engineering (CSE)
 - CSE 151B - Deep Learning [[Notes](/assets/study_note/CSE 151B Note.pdf)]
